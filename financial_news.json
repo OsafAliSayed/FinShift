@@ -1,6 +1,6 @@
 [
     {
-        "headline": "Indian banks ask fintech partners to limit tiny personal loans: Report",
+        "headline": "I-T recovers \u20b973,500 cr in pending bills",
         "sentiment": {
             "neg": 0.0,
             "neu": 1.0,
@@ -9,25 +9,25 @@
         }
     },
     {
-        "headline": "RBI MPC keeps repo rate unchanged at 6.5% for 5th straight policy review",
+        "headline": "Rupee recovers from all-time lows; rises 29 paise to 83.32 per dollar",
         "sentiment": {
-            "neg": 0.0,
-            "neu": 0.863,
-            "pos": 0.137,
-            "compound": 0.2263
+            "neg": 0.141,
+            "neu": 0.859,
+            "pos": 0.0,
+            "compound": -0.2023
         }
     },
     {
-        "headline": "RBI to establish cloud facility for financial sector to secure data privacy",
+        "headline": "Banks' GNPAs set to improve further to 2.1% by FY25: Care Rating",
         "sentiment": {
             "neg": 0.0,
-            "neu": 0.821,
-            "pos": 0.179,
-            "compound": 0.34
+            "neu": 0.621,
+            "pos": 0.379,
+            "compound": 0.7269
         }
     },
     {
-        "headline": "Timeshare 'exit' company sues Westgate vacation property operator",
+        "headline": "Govt plans to borrow Rs 7.5 trillion from market in first half of FY25",
         "sentiment": {
             "neg": 0.0,
             "neu": 1.0,
@@ -36,16 +36,88 @@
         }
     },
     {
-        "headline": "Centre\u2019s debt estimated to drop to 57.2% of GDP in FY24: MoS finance",
+        "headline": "Banks ready systems for capturing int'l credit card spends under LRS",
         "sentiment": {
-            "neg": 0.295,
-            "neu": 0.705,
-            "pos": 0.0,
-            "compound": -0.5574
+            "neg": 0.0,
+            "neu": 0.638,
+            "pos": 0.362,
+            "compound": 0.6249
         }
     },
     {
-        "headline": "RBI allows liquidity reversal for banks on weekends, holidays from Dec 30",
+        "headline": "Govt contemplating changes in SARFAESI, DRT laws; to provide legal sanctity to e-notices",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.889,
+            "pos": 0.111,
+            "compound": 0.128
+        }
+    },
+    {
+        "headline": "Bank direct lending to NBFCs to moderate at Rs 1.7-1.9 trn in FY25: ICRA",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "headline": "Balancing fintech regulation with innovation tricky: World Economic Forum official",
+        "sentiment": {
+            "neg": 0.131,
+            "neu": 0.656,
+            "pos": 0.213,
+            "compound": 0.25
+        }
+    },
+    {
+        "headline": "PE, VC investments fall to USD 2.2 bn in Feb as big-ticket deals dry up",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "headline": "RBI likely sold US dollars after rupee slips to fresh record low: Traders",
+        "sentiment": {
+            "neg": 0.136,
+            "neu": 0.714,
+            "pos": 0.149,
+            "compound": 0.0516
+        }
+    },
+    {
+        "headline": "How the RBI is minting a new nationwide currency logistics framework",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "headline": "Govt plans to borrow Rs 7.5 lakh cr from market in H1FY25 including Rs 12,000 cr via Sovereign Green Bonds",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "headline": "Rupee turns flat at 83.33 against US dollar amid high crude oil prices",
+        "sentiment": {
+            "neg": 0.236,
+            "neu": 0.764,
+            "pos": 0.0,
+            "compound": -0.5719
+        }
+    },
+    {
+        "headline": "Credit cards breach the 100 million mark in India, shows RBI data",
         "sentiment": {
             "neg": 0.0,
             "neu": 0.809,
@@ -54,61 +126,52 @@
         }
     },
     {
-        "headline": "Nearly 8 crore ITRs filed till December 2",
+        "headline": "NBFC's mission to diversify funding may see them struggle in the quest",
         "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
+            "neg": 0.173,
+            "neu": 0.827,
             "pos": 0.0,
-            "compound": 0.0
+            "compound": -0.3182
         }
     },
     {
-        "headline": "CBIC launches two-factor authentication for all e-way bill, e-invoice",
+        "headline": "Growing fast, fintech needs a way to keep watch on itself",
         "sentiment": {
             "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "headline": "Danske Bank ups profit view; sees 'negligible' Q4 impairments",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.734,
-            "pos": 0.266,
-            "compound": 0.4404
-        }
-    },
-    {
-        "headline": "RBI revokes the banking licence of UP-based Urban Co-operative Bank",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "headline": "No plans to loosen rates, inflation top priority: RBI Guv Shaktikanta Das",
-        "sentiment": {
-            "neg": 0.157,
-            "neu": 0.714,
-            "pos": 0.129,
-            "compound": -0.1027
-        }
-    },
-    {
-        "headline": "Woodside, Santos could sell assets to overcome merger antitrust hurdles -source",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.855,
-            "pos": 0.145,
+            "neu": 0.841,
+            "pos": 0.159,
             "compound": 0.1779
         }
     },
     {
-        "headline": "RBI set to retain hawkish pause on interest rates; keep liquidity tight",
+        "headline": "Rupee's decline to record low triggers biggest selloff in Indian bonds",
+        "sentiment": {
+            "neg": 0.174,
+            "neu": 0.826,
+            "pos": 0.0,
+            "compound": -0.2732
+        }
+    },
+    {
+        "headline": "Forex reserves rise $32.9 billion in April-December",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "headline": "Central govt to borrow 53% of full-year target in the first half of FY25",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "headline": "RBI releases MPC schedule for FY25, first interest rates decision on Apr 5",
         "sentiment": {
             "neg": 0.0,
             "neu": 0.786,
@@ -117,115 +180,25 @@
         }
     },
     {
-        "headline": "Signa unit says expects to file for insolvency in the very near term",
+        "headline": "Nabfid opts for Rs 10,000 cr credit lines over bond issuance to raise money",
         "sentiment": {
             "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "headline": "About 33,000 notices sent by CBIC officers for discrepancies in GST returns filed in FY18, FY19",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "headline": "No quick EU path to give Ukraine profits on sanctioned Russian assets",
-        "sentiment": {
-            "neg": 0.139,
-            "neu": 0.57,
-            "pos": 0.291,
-            "compound": 0.34
-        }
-    },
-    {
-        "headline": "Levying border adjustment tax to meet green commitments morally wrong: FM",
-        "sentiment": {
-            "neg": 0.228,
-            "neu": 0.662,
-            "pos": 0.11,
-            "compound": -0.3818
-        }
-    },
-    {
-        "headline": "Small ticket personal loans remain a concern for industry: Incred Finance",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "headline": "Trafigura predicts slower 2024 after record $7.4 bln profits",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.734,
-            "pos": 0.266,
-            "compound": 0.4404
-        }
-    },
-    {
-        "headline": "No relaxation in borrowing terms for states, says Finance Minister Sitharaman",
-        "sentiment": {
-            "neg": 0.151,
-            "neu": 0.616,
-            "pos": 0.233,
-            "compound": 0.296
-        }
-    },
-    {
-        "headline": "CBIC issues 33,000 notices for GST return discrepancies in FY18, FY19",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "headline": "RBI monetary policy: 5 key announcements from the governor's speech today",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "headline": "Exclusive: Endeavor Energy explores sale for as much as $30 billion -sources",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.735,
-            "pos": 0.265,
+            "neu": 0.833,
+            "pos": 0.167,
             "compound": 0.3818
         }
     },
     {
-        "headline": "FDI inflows drop 16% in H1 due to global recession",
+        "headline": "FM Nirmala Sitharaman rejects Karnataka govt charge of fiscal bias: 'Every due penny given on time'",
         "sentiment": {
-            "neg": 0.38,
-            "neu": 0.62,
+            "neg": 0.247,
+            "neu": 0.753,
             "pos": 0.0,
-            "compound": -0.5994
+            "compound": -0.5574
         }
     },
     {
-        "headline": "Praying for 'soft landing' of $1 trillion basis trade",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.762,
-            "pos": 0.238,
-            "compound": 0.3612
-        }
-    },
-    {
-        "headline": "Canada financial regulator maintains big banks' domestic stability buffer at 3.5%",
+        "headline": "NBBL to begin work on net banking interoperability from April: Report",
         "sentiment": {
             "neg": 0.0,
             "neu": 1.0,
@@ -234,7 +207,7 @@
         }
     },
     {
-        "headline": "Forex reserves surpass $600-billion mark after nearly four months",
+        "headline": "Centre to borrow \u20b97.5 lakh crore in H1FY25, eyes \u20b912,000 crore via green bonds",
         "sentiment": {
             "neg": 0.0,
             "neu": 1.0,
@@ -243,7 +216,16 @@
         }
     },
     {
-        "headline": "UPI payment limit to hospitals, educational institutes raised to Rs 5 lakh",
+        "headline": "Lending rates to start easing only in second half of FY'25: Report",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.846,
+            "pos": 0.154,
+            "compound": 0.25
+        }
+    },
+    {
+        "headline": "Rupee trades in narrow range against US dollar in early trade today",
         "sentiment": {
             "neg": 0.0,
             "neu": 1.0,
@@ -252,142 +234,16 @@
         }
     },
     {
-        "headline": "RBI MPC: Repo rate kept unchanged at 6.5%, FY24 GDP estimate hiked to 7%",
+        "headline": "PNB board approves Rs 10,000 crore fundraising in FY25 by issuing bonds",
         "sentiment": {
             "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "headline": "RBI MPC meet highlights: Inflation is our top priority, says Guv Das",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.859,
-            "pos": 0.141,
-            "compound": 0.2023
-        }
-    },
-    {
-        "headline": "Aggrieved Russian retail investors demand SPB Exchange recover their assets",
-        "sentiment": {
-            "neg": 0.134,
-            "neu": 0.714,
-            "pos": 0.152,
-            "compound": 0.0516
-        }
-    },
-    {
-        "headline": "Need to move towards data-based lending: Financial Services Secretary",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "headline": "Finance ministry gave Rs 10,000 crore advance for MGNREGS from contingency fund: Govt",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "headline": "RBI monetary policy announcement: When, where to watch and what to expect?",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "headline": "RBI to regulate entities facilitating cross-border payment transactions",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "headline": "Centre seeks house approval for extra net spending of Rs 58,378 cr",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.78,
-            "pos": 0.22,
-            "compound": 0.4767
-        }
-    },
-    {
-        "headline": "US embassy in Baghdad struck with seven mortars as attacks escalate",
-        "sentiment": {
-            "neg": 0.353,
-            "neu": 0.647,
-            "pos": 0.0,
-            "compound": -0.5994
-        }
-    },
-    {
-        "headline": "US equity funds see outflows as investors eye economic data",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "headline": "Britain proposes simpler financial advice to cut costs for consumers",
-        "sentiment": {
-            "neg": 0.189,
-            "neu": 0.811,
-            "pos": 0.0,
-            "compound": -0.2732
-        }
-    },
-    {
-        "headline": "I&B sector attracts \u20b96,058 crore FDI in H1 of FY24",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.769,
-            "pos": 0.231,
+            "neu": 0.803,
+            "pos": 0.197,
             "compound": 0.4019
         }
     },
     {
-        "headline": "EU aims to grant Ukraine aid even if Hungary vetoes it at coming summit",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.839,
-            "pos": 0.161,
-            "compound": 0.3612
-        }
-    },
-    {
-        "headline": "Morning Bid: Markets freeze for jobless recession gauge",
-        "sentiment": {
-            "neg": 0.28,
-            "neu": 0.6,
-            "pos": 0.12,
-            "compound": -0.3818
-        }
-    },
-    {
-        "headline": "Indian cos' rupee bond issuance at record in 2023 on jumbo debt sales",
-        "sentiment": {
-            "neg": 0.172,
-            "neu": 0.828,
-            "pos": 0.0,
-            "compound": -0.3612
-        }
-    },
-    {
-        "headline": "PM Modi asks investors to explore limitless potential of Uttarakhand",
+        "headline": "Explainer: What are meme coins and should you add them in your portfolio?",
         "sentiment": {
             "neg": 0.0,
             "neu": 1.0,
@@ -396,16 +252,7 @@
         }
     },
     {
-        "headline": "Britain's Labour Party reviews financial services to 'unleash' City for growth",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.629,
-            "pos": 0.371,
-            "compound": 0.6486
-        }
-    },
-    {
-        "headline": "Calvino picked to lead European Investment Bank, in boost for Spain",
+        "headline": "RBI's special audit to probe regulatory breaches of IIFL Finance, JMFPL",
         "sentiment": {
             "neg": 0.0,
             "neu": 0.787,

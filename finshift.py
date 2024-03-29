@@ -29,8 +29,8 @@ tags = ['a', 'p', 'a']
 classes = ['smallcard-title', 'UAZlE', 'text__heading_6__1qUJ5']
 # Scrape headlines from each URL
 all_headlines = []
-for url, header, tag, clas in zip(urls, headers, tags, classes):    
-    all_headlines.extend(scrape_headlines(url, header, tag, clas))
+for url, header, tag, cls in zip(urls, headers, tags, classes):    
+    all_headlines.extend(scrape_headlines(url, header, tag, cls))
 
 
 # Deduplicate headlines
